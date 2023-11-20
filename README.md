@@ -1,4 +1,3 @@
-Hallöchen,
+**Hi,**
 
-Ich bin Fili
-lerne Webdev
+I am Fili and i am currntly learning WebDev.
