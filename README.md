@@ -1,3 +1,3 @@
 **Hi,**
 
-I am Fili and i am currntly learning WebDev.
+I am Fili and i am currently learning WebDev.
